@@ -1,0 +1,5 @@
+# Auto-added by VoxAgent Security Guard
+.env
+.env.*
+*.pem
+*.key
